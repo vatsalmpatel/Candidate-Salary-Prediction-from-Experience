@@ -1,1 +1,1 @@
-# Heroku-Demo
+# Candidate Salary Prediction on Heroku
